@@ -1,3 +1,17 @@
 body {
-    background-color: green;
+    margin: 0;
+    background-image: url("./record.png");
+    background-repeat: repeat;
+}
+
+#Top {
+    background-color: cornflowerblue;
+    color: azure;
+    padding: 1em;
+    text-align: center;
+}
+
+#content {
+background-color: lightgrey;
+padding: 1em;
 }
